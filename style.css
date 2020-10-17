@@ -184,7 +184,7 @@ p{
 /*Header section*/
 /*hero section*/
 #hero{
-    background-image:url('img/hero-bg.png');
+    background-image:url('images/hero-bg.png');
     background-size:cover;
     background-position:top center;
     position:relative;
